@@ -4,7 +4,7 @@
 
 ## What's new?
 
-> Please add if you added new improvement
+> Please add if you added new improvements
 
 ## Test Coverage
 
